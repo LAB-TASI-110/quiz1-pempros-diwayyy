@@ -28,4 +28,5 @@ int main() {
     printf("Total nilai kelompok %d = %d\n", kelompok, total);
 
     return 0;
+    
 }
