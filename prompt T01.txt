@@ -1,0 +1,4 @@
+dari persoalan yang diberikan, tolong buatkan program bahasa c yang dimaksud atau yang diminta oleh soal
+untuk library string.h itu berfungsi untuk apa
+apakah char kode [10] itu dibuat sebanyak 10 karena banyaknya porsi ada 10?
+kenapa dia menggunakan while?

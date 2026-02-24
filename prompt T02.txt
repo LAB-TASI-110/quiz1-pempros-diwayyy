@@ -1,0 +1,3 @@
+buatlah maksud penyelesaian dari persoalan yang diminta ini, selesaikan dengan memperhatikan ketentuan-ketentuan yang diminta
+apa maksud dari masukkan kode kelompok ini?
+kenapa dengan inputan yang sama, namun dengan kode yang berbeda, hasil penjumlahan nilai bisa berbeda?

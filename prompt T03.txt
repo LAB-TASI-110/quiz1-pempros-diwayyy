@@ -1,0 +1,5 @@
+kira-kira sistem apa aja yang dapat membantu operasional untuk laundry del yg dapat memudahkan mereka, dan program ini dapat dibuat dengan program bahasa c
+coba tolong bantu aku buatkan sistem pemesanan atau pun sistem transaksi di laundry dengan menggunakan bahasa c
+coba kita berikan diskon-diskon nya
+arti switch pada program yang kamu berikan itu apa
+tolong kasih perbedaan switch dan if else
